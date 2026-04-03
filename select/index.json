@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "三千世界",
+  "base_artist": "幽閉サテライト、senya",
+  "createdAt": "2026-04-03T11:02:30.494727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三千世界",
+      "artist": "幽閉サテライト",
+      "has_synced": true,
+      "path": "select/01_三千世界_幽閉サテライト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "三千世界 (Vocal version)",
+      "artist": "幽閉サテライト",
+      "has_synced": false,
+      "path": "select/02_三千世界_(Vocal_version)_幽閉サテライト.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "三千世界 (Marcia Cover Version)",
+      "artist": "幽閉サテライト",
+      "has_synced": false,
+      "path": "select/03_三千世界_(Marcia_Cover_Version)_幽閉サテライト.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "三千世界",
+      "artist": "Sano ibuki",
+      "has_synced": true,
+      "path": "select/04_三千世界_Sano_ibuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "三千世界(with Yuzurisa)",
+      "artist": "Yuuhei Satellite",
+      "has_synced": false,
+      "path": "select/05_三千世界(with_Yuzurisa)_Yuuhei_Satellite.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "三千世界",
+      "artist": "yuzurisa",
+      "has_synced": false,
+      "path": "select/06_三千世界_yuzurisa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "三千世界(with senya)",
+      "artist": "幽閉サテライト",
+      "has_synced": true,
+      "path": "select/07_三千世界(with_senya)_幽閉サテライト.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "三千世界",
+      "artist": "senya",
+      "has_synced": true,
+      "path": "select/08_三千世界_senya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "三千世界 (Vocal version)",
+      "artist": "senya",
+      "has_synced": true,
+      "path": "select/09_三千世界_(Vocal_version)_senya.lrc"
+    }
+  ]
+}
